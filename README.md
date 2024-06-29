@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shamim Patwary</h1>
-<h3 align="center">A passionate problem solver</h3>
+<h3 align="center">A passionate problem solver with C++</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimpatwary&label=Profile%20views&color=0e75b6&style=flat" alt="shamimpatwary" /> </p>
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mdshamimpatwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdshamimpatwary" height="30" width="40" /></a>
-<a href="https://fb.com/mohammadshamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammadshamim" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-shamim-patwary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdshamimpatwary" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohammad.shamim.patwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammadshamim" height="30" width="40" /></a>
 <a href="https://instagram.com/md_shamim123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_shamim123" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shamim01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shamim01" height="30" width="40" /></a>
 </p>

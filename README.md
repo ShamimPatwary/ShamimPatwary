@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shamim Patwary</h1>
-<h3 align="center">A passionate problem solver with C++</h3>
+<h3 align="center">A passionate problem solver</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimpatwary&label=Profile%20views&color=0e75b6&style=flat" alt="shamimpatwary" /> </p>
